@@ -1,6 +1,6 @@
 {
   "Image": {
-    "Name": "php-docker"
+    "Name": "rajgaekwad/php-docker"
   },
   "Ports": [
     {
